@@ -1805,9 +1805,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.4, acorn@^6.2.1:
   version "6.4.0"
@@ -8742,6 +8742,13 @@ ra-data-json-server@^3.3.1:
   dependencies:
     query-string "^5.1.1"
     ra-core "^3.3.1"
+
+ra-data-simple-rest@^3.2.2:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-3.3.2.tgz#cf64a830b88571af6f9ecfdeee96ec2501fa79ca"
+  integrity sha512-BaV3jGYaT0bLo1KkaC5nLt3FBxdhmv1lXItBT0oPkXfjnQgiMDIJkZIjvkOCJofDSW8L4M/Tkc2uQ5u+MBS81w==
+  dependencies:
+    query-string "^5.1.1"
 
 ra-i18n-polyglot@^3.3.1:
   version "3.3.1"
