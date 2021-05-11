@@ -5098,9 +5098,9 @@ hoist-non-react-statics@^3.1.0, hoist-non-react-statics@^3.2.1, hoist-non-react-
     react-is "^16.7.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -8742,6 +8742,13 @@ ra-data-json-server@^3.3.1:
   dependencies:
     query-string "^5.1.1"
     ra-core "^3.3.1"
+
+ra-data-simple-rest@^3.2.2:
+  version "3.13.4"
+  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-3.13.4.tgz#27f936945234df06c3ccf715d28dd7cfb9e15df6"
+  integrity sha512-udOPcY1xzAph6XzHIFb86unN8nSLb7ssPZg6DP4lnypEmSu9Xu63SGHXbP+YJfqBP9YWAY98z13wlX9f53t7xw==
+  dependencies:
+    query-string "^5.1.1"
 
 ra-i18n-polyglot@^3.3.1:
   version "3.3.1"
