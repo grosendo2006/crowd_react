@@ -6808,9 +6808,9 @@ memory-fs@^0.5.0:
     readable-stream "^2.0.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
@@ -8742,6 +8742,13 @@ ra-data-json-server@^3.3.1:
   dependencies:
     query-string "^5.1.1"
     ra-core "^3.3.1"
+
+ra-data-simple-rest@^3.2.2:
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-3.16.0.tgz#0fb25065e492cbca4eb0c3a04b793432916532ec"
+  integrity sha512-v3+QAU0EhicQHHLpQGTRQHBRODPaefI3s4y1eFfthaQHdtdNxbf2SnMU00tbHP2kGgzJWoWc38/cc6oqOqETlw==
+  dependencies:
+    query-string "^5.1.1"
 
 ra-i18n-polyglot@^3.3.1:
   version "3.3.1"
